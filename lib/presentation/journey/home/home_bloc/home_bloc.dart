@@ -5,7 +5,6 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 class HomeBloc extends Bloc<HomeEvent,HomeState>{
   static int _value = 0;
   HomeBloc() : super(HomeInitState(number: _value.toString())){
-    print(state.runtimeType);
     on<HomeAddNumberEvent>(_onAdd);
     on<HomeSubtractEvent>(_onSubtract);
   }

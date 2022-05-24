@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1003768527227",
+    "project_id": "kids-c206d",
+    "storage_bucket": "kids-c206d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003768527227:android:991c28b0f4841f0a88a5de",
+        "android_client_info": {
+          "package_name": "com.nghia.for_kids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003768527227-9at38cgb5s45bssoiut3m2r8otng1k0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBycVXZAiWBb1t6Yimm50QNEfqty9JBxKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003768527227-9at38cgb5s45bssoiut3m2r8otng1k0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

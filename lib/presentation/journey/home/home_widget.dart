@@ -4,9 +4,9 @@ import 'package:base_project/presentation/journey/home/home_bloc/home_state.dart
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-class MyHomePage extends StatelessWidget{
+class HomeScreen extends StatelessWidget{
 
-  const MyHomePage({Key?key}) : super(key: key);
+  const HomeScreen({Key?key}) : super(key: key);
   @override
   Widget build(BuildContext context) {
     return Scaffold(
